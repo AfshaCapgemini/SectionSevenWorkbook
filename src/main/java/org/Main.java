@@ -16,6 +16,8 @@ public class Main {
         */
 
         Person person = new Person("Mother Teresa", "Macedonia", "24 Aug 1910", 9);
+        person.setSeatNumber(5);
+
 
         /*
         For section 7.1:
